@@ -42,7 +42,7 @@ spam   URGENT! Your Mobile No 07808726822 was awarded a L2,000 Bonus Caller Priz
 Note: messages are not chronologically sorted.
 
 
-2. USAGE
+**2. USAGE**
 --------
 
-We offer a comprehensive study of this corpus in the following paper that is under review. This work presents a number of statistics, studies and baseline results for several machine learning methods.
+We offer a comprehensive study of this corpus is under review. This work presents a number of statistics, studies and baseline results for several machine learning methods.
